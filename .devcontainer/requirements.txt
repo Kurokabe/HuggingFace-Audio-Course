@@ -1,0 +1,9 @@
+transformers @ git+https://github.com/huggingface/transformers
+datasets
+gradio
+accelerate
+evaluate
+ipykernel
+ipywidgets
+soundfile
+librosa
