@@ -8,3 +8,4 @@ ipywidgets
 soundfile
 librosa
 jiwer
+tensorboardX

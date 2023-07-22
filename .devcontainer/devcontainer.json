@@ -23,6 +23,15 @@
                 "njpwerner.autodocstring",
                 "ms-toolsai.jupyter-renderers"
             ]
+        },
+        "settings": {
+            "terminal.integrated.shell.linux": "bash",
+            "terminal.integrated.profiles.linux": {
+                "bash (container default)": {
+                    "path": "/usr/bin/bash",
+                    "overrideName": true
+                }
+            }
         }
     },
     "containerUser": "dev",
