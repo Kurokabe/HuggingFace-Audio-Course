@@ -11,6 +11,9 @@
         "audio-course",
         "--shm-size=50gb"
     ],
+    "mounts": [
+        "source=/data,target=/data,type=bind"
+    ],
     "customizations": {
         "vscode": {
             "extensions": [
