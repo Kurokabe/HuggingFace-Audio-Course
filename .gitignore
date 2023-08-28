@@ -1,3 +1,5 @@
 bengaliai-speech/*
 bengaliai-speech.zip
 bengaliai-speech_huggingface/*
+__pycache__/*
+bkp_large/*
